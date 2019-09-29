@@ -19,5 +19,5 @@ Aporta al perfil del Ingeniero Mecatrónico la capacidad de análisis, desarroll
 * Raúl González Duque, Python para todos.
 
 # *PYTHON*
-Lenguaje de programación **creado** por **Guido Van Rossum** en los **90's**. El lenguaje favorece una **sitaxis amplia**, ya que favorece un **código legible**.
+Lenguaje de programación **creado** por **Guido Van Rossum** en los **90's**. Favorece **sitaxis amplia**, y un **código legible**.
 Se trata de un **lenguaje interpretado o de script**, con tipado **dinámico fuertemente tipado**, multiplataforma y **orientado a objetos**.
