@@ -36,3 +36,12 @@ El intérprete de Python está disponible en multitud de pltaforma **(unix, sola
 
 ## *Sistema Orientado a Objetos*
 Es un paradigma de programación en el que los conceptos del mundo real, relevantes a nuestro problema se trasladan a clases y objetos en nuestro programa. Su ejecución consiste en una serie de interacciones entre varios objetos.
+
+## *¿Por qué Python?*
+El software es el núcleo de todas las herramientas que utilizamos hoy en día: Casi tosos usamos redes sociales para comunicarnos, muchas personas están conectadas a internet hoy en día, y la mayoría de los trabajos siempre se efctúa con una computadora para tener el trabajo hecho. Como resultado la demanda que sepa programar ha aumentado. Python es un lenguaje que con su sintaxis simple, clara y sencilla puede automatizar simples tareas como:
+
+* Mover y reenombrar miles de archivos y clasificarlos en folder.
+* Llenar de forma automática formularios en internet.
+* Descargar archivos o extraer información de páginas de internet de forma masiva.
+* Hacer que la computadora envíe al teléfono información de quien lo usa.
+* Checar e-mail y contestar automaticamente.
