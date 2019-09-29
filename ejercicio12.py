@@ -18,7 +18,6 @@ DistLatit= Latit2 - Latit1
 a= sin(DistLatit/2)**2 + cos(Latit1) * cos(Latit2) * sin(DistLong/2)**2
 c= 2 * asin(sqrt(a)) 
 r= 6371 
- 
 
 print('Distancia es: %.2f.' %(c*r),'kilometros')
 
