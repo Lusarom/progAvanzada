@@ -52,3 +52,13 @@ Imprime el mensaje en la pantalla o dispositivo de salida. El mensaje puede ser 
   #### • **input**
 Permite al usuario introducir información, utilizando el teclado en la variable donde se guarda dicha información, que es de tipo cadena de caracteres.
   
+
+Sí un programa no fuera más que una lista de órdenes a ejecutar de forma secuencial una a una, no tendrá mucha utilidad; las sentencias condicionales nos permiten comprobar condiciones y hacer que nuestro programa se conforme una de otra.
+Aquí es donde cobran su importancia tipo booleano y operaciones.
+#### *Condicional* **if**
+La forma más simple de una sentencia condicional es un *if* (del inglés sí) seguido de la condición a evaluar dos puntos (*:*) y en la siguiente línea e identado el código o ejecutar en caso de que se cumpla dicha condición.
+La identación del código se realiza con 4 espacios.
+#### *Estructura **if esle** 
+Permite añadir el comportamiento en caso de que la condición no resulte cierta, por ejemplo:
+#### *Estrutura **elif elif else**
+El comando *elif* es la contracción de *else if*, en español "sí, no" ejemplo:
