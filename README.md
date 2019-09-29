@@ -10,5 +10,5 @@ Aporta al perfil del Ingeniero Mecatrónico la capacidad de análisis, desarroll
 5. Programación visual.
 6. Formas, controles, eventos.
 
-##### *Lenguaje de programación*
+#### *Lenguaje de programación*
 •Python (Versión 3)
