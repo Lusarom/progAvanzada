@@ -1,0 +1,6 @@
+
+
+
+print('GUADALUPE ROM        ' , 'BARBARA LUTTEROTH')
+print('GREEN HOUSE CP 52779 ' , 'CABO SAN LUCAS')
+print('ESTADODE MEXICO      ' , 'BAJA CAIFORNIA SUR')
