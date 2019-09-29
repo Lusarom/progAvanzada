@@ -47,8 +47,8 @@ El software es el núcleo de todas las herramientas que utilizamos hoy en día: 
 * Checar e-mail y contestar automaticamente.
 
 # *COMANDOS*
-  ##### **print**
+  #### **print**
 Imprime el mensaje en la pantalla o dispositivo de salida. El mensaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres.
-  ##### **input**
+  #### **input**
 Permite al usuario introducir información, utilizando el teclado en la variable donde se guarda dicha información, que es de tipo cadena de caracteres.
   
