@@ -15,5 +15,5 @@ Aporta al perfil del Ingeniero Mecatrónico la capacidad de análisis, desarroll
 * Python (Versión 3)
 
 ### *Bibliografía*
-* Lista 1The Python Woorbook: A Brief Introduction with Exercises and Solutions.
+* The Python Woorbook: A Brief Introduction with Exercises and Solutions.
 * Raúl González Duque, Python para todos.
