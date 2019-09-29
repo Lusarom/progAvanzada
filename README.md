@@ -45,3 +45,10 @@ El software es el núcleo de todas las herramientas que utilizamos hoy en día: 
 * Descargar archivos o extraer información de páginas de internet de forma masiva.
 * Hacer que la computadora envíe al teléfono información de quien lo usa.
 * Checar e-mail y contestar automaticamente.
+
+# *COMANDOS*
+  ##### **print**
+Imprime el mensaje en la pantalla o dispositivo de salida. El mensaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres.
+  ##### **input**
+Permite al usuario introducir información, utilizando el teclado en la variable donde se guarda dicha información, que es de tipo cadena de caracteres.
+  
