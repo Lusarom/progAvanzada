@@ -69,7 +69,7 @@ El comando *elif* es la contracción de *else if*, en español "sí, no" ejemplo
 # **EJERCICIO 1**
 Cree un programa que muestre su nombre y la dirección postal completa formateada en la forma en que normalmente lo verías en el exterior de un sobre. Su programa no necesita leer ninguna entrada del usuario. 
  [EJERCICIO 1](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio01.py).
- ![E1](https://mail.google.com/mail/u/0/?tab=rm1#search/capturas+del+programa/KtbxLthlvFnhDqCgbvsfSKZfpvvZbjSJMg?projector=1&messagePartId=0.5)
+ ![E1](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1nj101dboqm98#attid%253Datt_16d61f1f1a9d2a2f_0.1_f_k0xfhxlj0)
 
 # **EJERCICIO 2**
 Escriba un programa que le pida al usuario que ingrese su nombre. El programa debe responda con un mensaje que diga hola al usuario, usando su nombre.
