@@ -145,6 +145,13 @@ Escriba un programa que comience leyendo un radio, r, del usuario. El programa c
  [EJERCICIO 17](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio17.py).
 
 
+  # **EJERCICIO 18**
+El volumen de un cilindro se puede calcular multiplicando el área de su circular base por su altura. Escriba un programa que lea el radio del cilindro, junto con su altura, desde el usuario y calcula su volumen. Mostrar el resultado redondeado a uno decimal.
+ [EJERCICIO 18](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio18.py).
+ 
+ # **EJERCICIO 19**
+Cree un programa que determine qué tan rápido viaja un objeto cuando golpea el suelo. El usuario ingresará la altura desde la cual se cae el objeto en metros (m). Debido a que el objeto se cae, su velocidad inicial es de 0 m / s. Supongamos que la aceleración debido a la gravedad es de 9.8 m / s2. Puedes usar la fórmula vf = v2 i + 2ad para calcular el velocidad final, vf, cuando se conoce la velocidad inicial, vi, aceleración, a y distancia, d.
+ [EJERCICIO 19](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio19.py).
 
 
 
