@@ -66,6 +66,6 @@ Permite añadir el comportamiento en caso de que la condición no resulte cierta
 #### Estrutura *elif elif else*
 El comando *elif* es la contracción de *else if*, en español "sí, no" ejemplo:
 
-#### **EJERCICIO 1**
+# **EJERCICIO 1**
 Cree un programa que muestre su nombre y la dirección postal completa formateada en la forma en que normalmente lo verías en el exterior de un sobre. Su programa no necesita leer ninguna entrada del usuario. 
 
