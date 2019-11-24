@@ -104,13 +104,13 @@ Imagina que acabas de abrir una nueva cuenta de ahorros que genera un interés d
 
 # **EJERCICIO 10**
 Cree un programa que lea dos enteros, "a" y "b", del usuario. Su programa debe calcular y mostrar.
-## • The sum of a and b
-## • The difference when b is subtracted from a
-## • The product of a and b
-## • The quotient when a is divided b y b
-## • The remainder when a is divided b y b
-## • The result of log10 a
-## • The result of a^b
+##### • La suma de a y b
+##### • La diferencia cuando b se resta de a
+##### • El producto de a y b
+##### • El cociente cuando a se divide por b y b
+##### • El resto cuando a se divide por b y b
+##### • El resultado de log10 a
+##### • El resultado de a ^ b
  [EJERCICIO 10](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio10.py).
 
 
