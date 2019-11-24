@@ -76,6 +76,7 @@ Escriba un programa que le pida al usuario que ingrese su nombre. El programa de
 
 # **EJERCICIO 3**
 Escriba un programa que le pida al usuario que ingrese el ancho y la longitud de una habitación. Una vez los valores han sido leídos, su programa debe calcular y mostrar el área de habitación. La longitud y el ancho se ingresarán como números de coma flotante. Incluir unidades en su mensaje de solicitud y salida; ya sea pies o metros, dependiendo de qué unidad con la que se siente más cómodo trabajando.
+ [EJERCICIO 3](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio03.py).
 
 # **EJERCICIO 4**
 Cree un programa que lea la longitud y el ancho del campo de un agricultor del usuario en pies Muestra el área del campo en acres.
