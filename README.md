@@ -234,6 +234,7 @@ La duración de un mes varía de 28 a 31 días. En este ejercicio crearás Un pr
   
   # **EJERCICIO 39**
 La siguiente tabla enumera el nivel de sonido en decibelios para varios ruidos comunes.
+
 | NOISE| DECIBEL LEBEL (dB)|
 | ----- | ---- |
 | Jackhammer | 130|
