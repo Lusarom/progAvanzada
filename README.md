@@ -85,14 +85,9 @@ En muchas jurisdicciones se agrega un pequeño depósito a los envases de bebida
 El programa que cree para este ejercicio comenzará leyendo el costo de una comida ordenado en un restaurante del usuario. Luego, su programa calculará el impuesto y propina para la comida. Use su tasa impositiva local cuando calcule la cantidad de impuestos adeudados. Calcule la propina como el 18 por ciento de la cantidad de comida (sin el impuesto). La salida de su programa debe incluir el monto de los impuestos, el monto de la propina y el total general de la comida incluye tanto el impuesto como la propina. Formatee la salida para que todos los valores se muestran con dos decimales.
 
 # **EJERCICIO 7**
-Write a program that reads a positive integer, n, from the user and then displays the sum of all of the integers from 1 to n. The sum of the first n positive integers can be computed using the formula:
+Escriba un programa que lea un entero positivo, n, del usuario y luego muestre el suma de todos los enteros de 1 a n. La suma de los primeros n enteros positivos puede ser calculado usando la fórmula: sum=(n)(n+1)/2.
 
-
-
-    Write a program that reads a positive integer, n, from the user and then displays the
-    sum of all of the integers from 1 to n. The sum of the first n positive integers can be
-    computed using the formula:
-    sum=(n)(n+1)/2
+# **EJERCICIO 8**
 
 
 
