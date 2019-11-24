@@ -323,7 +323,7 @@ En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En e
   # **EJERCICIO 59**
    [EJERCICIO 59](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio59.py).
   
-:HEART:.
+:HEART:
   
   
   
