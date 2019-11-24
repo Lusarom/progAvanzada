@@ -161,6 +161,58 @@ Escriba un programa que calcule la cantidad de gas en moles cuando el usuario su
 Escriba un programa que permita al usuario ingresar valores para byh. El programa luego debe calcular y mostrar el área de un triángulo con longitud base by altura h.
  [EJERCICIO 21](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio21.py).
 
+# **EJERCICIO 22**
+En el ejercicio anterior, creó un programa que calculaba el área de un triángulo cuando se conocía la longitud de su base y su altura. También es posible calcular el área de un triángulo cuando se conocen las longitudes de los tres lados. Deje s1, s2 y s3
+ser la longitud de los lados. Sea s = (s1 + s2 + s3) / 2. Entonces el área del triángulo se puede calcular usando la siguiente fórmula: area = s × (s − s1) × (s − s2) × (s − s3)
+ [EJERCICIO 22](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio22.py).
+
+# **EJERCICIO 23**
+Un polígono es regular si sus lados tienen la misma longitud y los ángulos entre todos Los lados adyacentes son iguales. El área de un polígono regular se puede calcular usando la siguiente fórmula, donde s es la longitud de un lado yn es el número de lados: area = n × s2/
+4 × tan (π / n).
+ [EJERCICIO 23](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio23.py).
+
+# **EJERCICIO 24**
+Cree un programa que lea una duración del usuario como un número de días, horas, minutos y segundos. Calcule y muestre el número total de segundos representados por esta duración.
+ [EJERCICIO 24](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio24.py).
+ 
+ # **EJERCICIO 25**
+En este ejercicio revertirá el proceso descrito en el ejercicio anterior. Desarrolle un programa que comience leyendo un número de segundos del usuario. Luego, su programa debe mostrar la cantidad de tiempo equivalente en el formulario D: HH: MM: SS, donde D, HH, MM y SS representan días, horas, minutos y segundos respectivamente. Las horas, minutos y segundos deben estar formateados para que ocupan exactamente dos dígitos, con un 0 inicial si es necesario.
+ [EJERCICIO 25](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio25.py).
+ 
+  # **EJERCICIO 26**
+Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida una función llamado asctime en el módulo de tiempo. Lee la hora actual del reloj interno de la computadora y la devuelve en un formato legible para humanos. Escribir un programa que muestra la hora y fecha actuales. Su programa no requerirá ninguna entrada de el usuario.
+ [EJERCICIO 26](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio26.py).
+
+  # **EJERCICIO 27**
+Escriba un programa que calcule el índice de masa corporal (IMC) de un individuo. Tu El programa debe comenzar leyendo una altura y un peso del usuario. Entonces debería use una de las siguientes dos fórmulas para calcular el IMC antes de mostrarlo. Si lees la altura en pulgadas y el peso en libras, entonces el índice de masa corporal es calculado usando la siguiente fórmula: IMC = peso / altura × altura (703).
+ [EJERCICIO 27](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio27.py).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
