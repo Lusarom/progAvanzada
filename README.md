@@ -273,30 +273,47 @@ En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En e
    [EJERCICIO 42](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio42.py).
   
   # **EJERCICIO 43**
+Las personas que aparecen en los billetes en los Estados Unidos se enumeran en la siguiente Tabla. Escriba un programa que comience leyendo la denominación de un billete del usuario. Luego, su programa debe mostrar el nombre de la persona que aparece en el billete de la cantidad ingresada. Se debe mostrar un mensaje de error apropiado
+si no existe tal nota. **TABLA**
    [EJERCICIO 43](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio43.py).
   
   # **EJERCICIO 44**
+Canadá tiene tres feriados nacionales que caen en las mismas fechas cada año. Escriba un programa que lea un mes y un día del usuario. Si el mes y el dia coincidir con uno de los días festivos enumerados anteriormente, entonces su programa debería mostrar el nombre de vacaciones De lo contrario, su programa debe indicar que el mes ingresado y día no corresponde a un día festivo de fecha fija. **TABLA**
    [EJERCICIO 44](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio44.py).
   
   # **EJERCICIO 45**
+Escriba un programa que lea una posición del usuario. Use una declaración if para determinar si la columna comienza con un cuadrado negro o un cuadrado blanco. Luego use modular aritmética para informar el color del cuadrado en esa fila. Por ejemplo, si el usuario ingresa a1 entonces su programa debe informar que el cuadrado es negro.
    [EJERCICIO 45](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio45.py).
   
   # **EJERCICIO 46**
+El año se divide en cuatro estaciones: primavera, verano, otoño e invierno. Mientras que la las fechas exactas en que cambian las estaciones varían un poco de un año a otro debido a la de la manera en que se construye el calendario, utilizaremos las siguientes fechas para este ejercicio: **TABLA**
+Cree un programa que lea un mes y un día del usuario. El usuario ingresará el nombre del mes como una cadena, seguido del día dentro del mes como un entero. Luego, su programa debe mostrar la temporada asociada con la fecha en que fue ingresado.
    [EJERCICIO 46](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio46.py).
   
   # **EJERCICIO 47**
+Los horóscopos comúnmente reportados en los periódicos usan la posición del sol en el momento del nacimiento para intentar predecir el futuro. Este sistema de astrología divide el año en doce signos del zodiaco, como se describe en la tabla a continuación: **TABLA**
+Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. Luego su programa debe informar el signo del zodiaco del usuario como parte de una salida adecuada mensaje.
    [EJERCICIO 47](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio47.py).
   
   # **EJERCICIO 48**
+El zodiaco chino asigna animales a años en un ciclo de 12 años. Un ciclo de 12 años es se muestra en la tabla a continuación. El patrón se repite a partir de ahí, con 2012 siendo otro año del dragón, y 1999 siendo otro año de la liebre. **TABLA**
+Escriba un programa que lea un año del usuario y muestre el animal asociado con ese año Su programa debería funcionar correctamente durante cualquier año mayor o igual a cero, no solo los que figuran en la tabla.
    [EJERCICIO 48](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio48.py).
   
   # **EJERCICIO 49**
+La siguiente tabla contiene rangos de magnitud de terremotos en la escala de Richter y
+sus descriptores: **TABLA**
+Escriba un programa que lea una magnitud del usuario y muestre la información apropiada. descriptor como parte de un mensaje significativo. Por ejemplo, si el usuario ingresa 5.5 entonces su programa debe indicar que un terremoto de magnitud 5.5 se considera terremoto moderado
    [EJERCICIO 49](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio49.py).
   
   # **EJERCICIO 50**
+Una función cuadrática univariada tiene la forma f (x) = ax2 + bx + c, donde a, by c son constantes y a no es cero. Se pueden encontrar las raíces de una función cuadrática encontrando los valores de x que satisfacen la ecuación cuadrática ax2 + bx + c = 0. A La función cuadrática puede tener 0, 1 o 2 raíces reales. Estas raíces se pueden calcular usando la fórmula cuadrática, que se muestra a continuación:
+raíz = −b ± √ b2 - 4ac / 2a 
+Escriba un programa que calcule las raíces reales de una función cuadrática. Su programa debe comenzar solicitando al usuario los valores de a, byc. Entonces debería mostrar un mensaje que indica el número de raíces reales, junto con los valores de las raíces reales
    [EJERCICIO 50](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio50.py).
   
   # **EJERCICIO 51**
+En una universidad en particular, las calificaciones con letras se asignan a puntos de calificación en el siguiente manera: **TABLA** Escriba un programa que comience leyendo una calificación de letra del usuario. Entonces tu El programa debe calcular y mostrar el número equivalente de puntos de calificación. Asegurar que su programa genera un mensaje de error apropiado si el usuario ingresa un mensaje no válido grado de la letra.
    [EJERCICIO 51](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio51.py).
   
   # **EJERCICIO 52**
@@ -323,7 +340,7 @@ En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En e
   # **EJERCICIO 59**
    [EJERCICIO 59](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio59.py).
   
-:HEART:
+
   
   
   
