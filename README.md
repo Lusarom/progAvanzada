@@ -207,7 +207,97 @@ Desarrolle un programa que lea un número entero de cuatro dígitos del usuario 
 Cree un programa que lea tres enteros del usuario y los muestre ordenados orden (de menor a mayor). Usa las funciones min y max para encontrar el más pequeño y valores más grandes. El valor medio se puede encontrar calculando la suma de los tres valores, y luego restando el valor mínimo y el valor máximo.
  [EJERCICIO 32](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio32.py).
 
+  # **EJERCICIO 33**
+Una panadería vende hogazas de pan por $ 3.49 cada una. El pan de un día tiene un descuento de 60 por ciento. Escriba un programa que comience leyendo la cantidad de panes de un día pan que se compra al usuario. Entonces su programa debe mostrar el regular precio del pan, el descuento porque tiene un día y el precio total. Toda la los valores deben mostrarse con dos decimales y los puntos decimales en todos
+de los números deben alinearse cuando el usuario ingresa valores razonables.
+ [EJERCICIO 33](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio33.py).
+ 
+  # **EJERCICIO 34**
+   [EJERCICIO 34](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio34.py).
+  
+  # **EJERCICIO 35**
+   [EJERCICIO 35](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio35.py).
+  
+  # **EJERCICIO 36**
+   [EJERCICIO 36](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio36.py).
+  
+  # **EJERCICIO 37**
+   [EJERCICIO 37](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio37.py).
+  
+  # **EJERCICIO 38**
+   [EJERCICIO 38](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio38.py).
+  
+  # **EJERCICIO 39**
+   [EJERCICIO 39](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio39.py).
+  
+  # **EJERCICIO 40**
+   [EJERCICIO 40](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio40.py).
+  
+  # **EJERCICIO 41**
+   [EJERCICIO 41](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio41.py).
+  
+  # **EJERCICIO 42**
+   [EJERCICIO 42](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio42.py).
+  
+  # **EJERCICIO 43**
+   [EJERCICIO 43](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio43.py).
+  
+  # **EJERCICIO 44**
+   [EJERCICIO 44](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio44.py).
+  
+  # **EJERCICIO 45**
+   [EJERCICIO 45](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio45.py).
+  
+  # **EJERCICIO 46**
+   [EJERCICIO 46](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio46.py).
+  
+  # **EJERCICIO 47**
+   [EJERCICIO 47](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio47.py).
+  
+  # **EJERCICIO 48**
+   [EJERCICIO 48](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio48.py).
+  
+  # **EJERCICIO 49**
+   [EJERCICIO 49](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio49.py).
+  
+  # **EJERCICIO 50**
+   [EJERCICIO 50](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio50.py).
+  
+  # **EJERCICIO 51**
+   [EJERCICIO 51](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio51.py).
+  
+  # **EJERCICIO 52**
+   [EJERCICIO 52](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio52.py).
+  
+  # **EJERCICIO 53**
+   [EJERCICIO 53](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio53.py).
+  
+  # **EJERCICIO 54**
+   [EJERCICIO 54](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio54.py).
+  
+  # **EJERCICIO 55**
+   [EJERCICIO 55](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio55.py).
+  
+  # **EJERCICIO 56**
+   [EJERCICIO 56](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio56.py).
+  
+  # **EJERCICIO 57**
+   [EJERCICIO 57](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio57.py).
+  
+  # **EJERCICIO 58**
+   [EJERCICIO 58](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio58.py).
+  
+  # **EJERCICIO 59**
+   [EJERCICIO 59](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio59.py).
+  
 
+  
+  
+  
+  
+  
+  
+  
 
 
 
