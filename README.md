@@ -213,21 +213,33 @@ de los números deben alinearse cuando el usuario ingresa valores razonables.
  [EJERCICIO 33](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio33.py).
  
   # **EJERCICIO 34**
+Escriba un programa que lea un número entero del usuario. Entonces su programa debería muestra un mensaje que indica si el entero es par o  impar.
    [EJERCICIO 34](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio34.py).
   
   # **EJERCICIO 35**
+Escribir un programa que implemente la conversión de años humanos a años de perros. descrito en el párrafo anterior. Asegúrese de que su programa funcione correctamente para conversiones de menos de dos años humanos y para conversiones de dos o más humanos años. Su programa debe mostrar un mensaje de error apropiado si el usuario ingresa un número negativo.
    [EJERCICIO 35](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio35.py).
-  
+   
   # **EJERCICIO 36**
+En este ejercicio creará un programa que lee una letra del alfabeto del usuario. Si el usuario ingresa a, e, i, o u, entonces su programa debería mostrar un mensaje indicando que la letra ingresada es una vocal. Si el usuario ingresa y entonces su programa debería mostrar un mensaje que indique que a veces y es una vocal, y a veces y es una consonante. De lo contrario, su programa debería mostrar un mensaje que indica que el La letra es una consonante.
    [EJERCICIO 36](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio36.py).
   
   # **EJERCICIO 37**
+Escriba un programa que determine el nombre de una forma a partir de su número de lados. Leer el número de lados del usuario y luego informa el nombre apropiado como parte de Un mensaje significativo. Su programa debe admitir formas con 3 hasta (e incluyendo) 10 lados. Si se ingresa un número de lados fuera de este rango entonces su programa debería mostrar un mensaje de error apropiado.
    [EJERCICIO 37](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio37.py).
   
   # **EJERCICIO 38**
+La duración de un mes varía de 28 a 31 días. En este ejercicio crearás Un programa que lee el nombre de un mes del usuario como una cadena. Entonces tu El programa debe mostrar la cantidad de días en ese mes. Mostrar "28 o 29 días" para febrero para que se aborden los años bisiestos.
    [EJERCICIO 38](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio38.py).
   
   # **EJERCICIO 39**
+La siguiente tabla enumera el nivel de sonido en decibelios para varios ruidos comunes.
+|Noise       |Decibel level (dB)|
+| ---------- | ---- |
+| Jackhammer | 130  | 
+as lawnmower | 106  |
+ Alarm clock | 70   |
+  Quiet room | 40   |
    [EJERCICIO 39](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio39.py).
   
   # **EJERCICIO 40**
