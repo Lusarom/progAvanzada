@@ -242,9 +242,9 @@ La siguiente tabla enumera el nivel de sonido en decibelios para varios ruidos c
 |  Quiet room| 40   |
 
 
-| TITULO1| TITULO2|
+| NOISE| DECIBEL LEBEL (dB)|
 | ----- | ---- |
-| NOISE | DECIBEL LEVEL (dB)|
+| Jackhammer | 130|
 
 
 
