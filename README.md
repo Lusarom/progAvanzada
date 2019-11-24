@@ -114,15 +114,35 @@ Cree un programa que lea dos enteros, "a" y "b", del usuario. Su programa debe c
 ##### • El resultado de a ^ b
  [EJERCICIO 10](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio10.py).
 
+# **EJERCICIO 11**
+En los Estados Unidos, la eficiencia del combustible para vehículos normalmente se expresa en millas por galón (MPG). En Canadá, la eficiencia del combustible normalmente se expresa en litros por cien kilómetros (L / 100 km). Usa tus habilidades de investigación para determinar cómo convertir de MPG a L / 100 km. Luego cree un programa que lea un valor del usuario en América unidades y muestra la eficiencia de combustible equivalente en unidades canadienses.
+ [EJERCICIO 11](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio11.py).
 
 
+# **EJERCICIO 12**
+La superficie de la Tierra es curva y la distancia entre grados de longitud. varía con la latitud. Como resultado, encontrar la distancia entre dos puntos en la superficie de la Tierra es más complicado que simplemente usar el teorema de Pitágoras. Sea (t1, g1) y (t2, g2) la latitud y longitud de dos puntos en la Tierra superficie. La distancia entre estos puntos, siguiendo la superficie de la Tierra, en
+kilómetros es: distancia = 6371.01 × arccos (sin (t1) × sin (t2) + cos (t1) × cos (t2) × cos (g1 - g2)). Cree un programa que permita al usuario ingresar la latitud y longitud de dos puntos en la Tierra en grados. Su programa debe mostrar la distancia entre los puntos, siguiendo la superficie de la tierra, en kilómetros.
+ [EJERCICIO 12](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio12.py).
+ 
+ # **EJERCICIO 13**
+Considere el software que se ejecuta en una máquina de autopago. Una tarea que debe ser capaz de realizar es determinar cuánto cambio proporcionar cuando el comprador paga para una compra en efectivo Escriba un programa que comience leyendo una cantidad de centavos del usuario como entero. Luego, su programa debe calcular y mostrar las denominaciones de monedas que deberían usarse para dar esa cantidad de cambio al comprador. El cambio debe administrarse utilizando la menor cantidad de monedas posible. Suponga que la máquina está cargada con centavos, monedas de cinco centavos, monedas de diez centavos, cuartos, locos y toonies.
+ [EJERCICIO 13](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio13.py).
 
+ # **EJERCICIO 14**
+Muchas personas piensan en su altura en pies y pulgadas, incluso en algunos países que utiliza principalmente el sistema métrico. Escriba un programa que lea un número de pies de el usuario, seguido de varias pulgadas. Una vez que se leen estos valores, su programa debe calcular y mostrar el número equivalente de centímetros.
+ [EJERCICIO 14](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio14.py).
+ 
+  # **EJERCICIO 15**
+En este ejercicio, creará un programa que comienza leyendo una medida en pies del usuario. Entonces su programa debe mostrar la distancia equivalente en pulgadas, yardas y millas. Use Internet para buscar los factores de conversión necesarios si no los tienes memorizados. 
+ [EJERCICIO 15](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio15.py).
 
-
-
-
-
-
+  # **EJERCICIO 16**
+Escriba un programa que comience leyendo un radio, r, del usuario. El programa continúe calculando y mostrando el área de un círculo con radio r y el volumen de una esfera con radio r. Use la constante pi en el módulo matemático en su cálculos.
+ [EJERCICIO 16](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio16.py).
+ 
+  # **EJERCICIO 17**
+ Escriba un programa que lea la masa de un poco de agua y el cambio de temperatura. del usuario Su programa debe mostrar la cantidad total de energía que debe ser agregado o eliminado para lograr el cambio de temperatura deseado.
+ [EJERCICIO 17](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio17.py).
 
 
 
