@@ -71,27 +71,27 @@ Cree un programa que muestre su nombre y la dirección postal completa formatead
  [EJERCICIO 1](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio01.py).
  ![E1]()
 
-# **EJERCICIO 2** Hola.
+# **EJERCICIO 2** *Hola*.
 Escriba un programa que le pida al usuario que ingrese su nombre. El programa debe responda con un mensaje que diga hola al usuario, usando su nombre.
  [EJERCICIO 2](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio02.py).
 
-# **EJERCICIO 3** Área de una habitación.
+# **EJERCICIO 3** *Área de una habitación*.
 Escriba un programa que le pida al usuario que ingrese el ancho y la longitud de una habitación. Una vez los valores han sido leídos, su programa debe calcular y mostrar el área de habitación. La longitud y el ancho se ingresarán como números de coma flotante. Incluir unidades en su mensaje de solicitud y salida; ya sea pies o metros, dependiendo de qué unidad con la que se siente más cómodo trabajando.
  [EJERCICIO 3](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio03.py).
 
-# **EJERCICIO 4** Área de un campo.
+# **EJERCICIO 4** *Área de un campo*.
 Cree un programa que lea la longitud y el ancho del campo de un agricultor del usuario en pies Muestra el área del campo en acres.
  [EJERCICIO 4](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio04.py).
 
-# **EJERCICIO 5** Depósitos de botellas.
+# **EJERCICIO 5** *Depósitos de botellas*.
 En muchas jurisdicciones se agrega un pequeño depósito a los envases de bebidas para alentar a las personas para reciclarlos En una jurisdicción particular, beba recipientes de un litro o menos tienen un depósito de $ 0.10, y los recipientes de bebidas que contienen más de un litro tienen, Depósito de $ 0.25. Escriba un programa que lea el número de contenedores de cada tamaño del usuario. Su programa debe continuar calculando y mostrando el reembolso que será recibido por devolver esos contenedores. Formatee la salida para que incluya un dólar firmar y siempre muestra exactamente dos decimales.
  [EJERCICIO 5](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio05.py).
 
-# **EJERCICIO 6** Impuestos y propina.
+# **EJERCICIO 6** *Impuestos y propina*.
 El programa que cree para este ejercicio comenzará leyendo el costo de una comida ordenado en un restaurante del usuario. Luego, su programa calculará el impuesto y propina para la comida. Use su tasa impositiva local cuando calcule la cantidad de impuestos adeudados. Calcule la propina como el 18 por ciento de la cantidad de comida (sin el impuesto). La salida de su programa debe incluir el monto de los impuestos, el monto de la propina y el total general de la comida incluye tanto el impuesto como la propina. Formatee la salida para que todos los valores se muestran con dos decimales.
  [EJERCICIO 6](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio06.py).
 
-# **EJERCICIO 7** Suma de los primeros n enteros positivos.
+# **EJERCICIO 7** *Suma de los primeros n enteros positivos*.
 Escriba un programa que lea un entero positivo, n, del usuario y luego muestre el suma de todos los enteros de 1 a n. La suma de los primeros n enteros positivos puede ser calculado usando la fórmula: sum=(n)(n+1)/2.
  [EJERCICIO 7](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio07.py).
 
