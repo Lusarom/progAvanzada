@@ -244,7 +244,7 @@ La siguiente tabla enumera el nivel de sonido en decibelios para varios ruidos c
 
 | TITULO1| TITULO2|
 | ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+| NOISE | DECIBEL LEVEL (dB)|
 
 
 
