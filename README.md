@@ -316,28 +316,49 @@ Escriba un programa que calcule las raíces reales de una función cuadrática. 
 En una universidad en particular, las calificaciones con letras se asignan a puntos de calificación en el siguiente manera: **TABLA** Escriba un programa que comience leyendo una calificación de letra del usuario. Entonces tu El programa debe calcular y mostrar el número equivalente de puntos de calificación. Asegurar que su programa genera un mensaje de error apropiado si el usuario ingresa un mensaje no válido grado de la letra.
    [EJERCICIO 51](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio51.py).
   
-  # **EJERCICIO 52**
+  # **EJERCICIO 52** 
+En el ejercicio anterior, creó un programa que convierte una calificación de letra en número equivalente de puntos de calificación. En este ejercicio creará un programa que invierte el proceso y convierte de un valor de punto de calificación introducido por el usuario a un grado de la letra. Asegúrese de que su programa maneje los valores de calificación que se encuentran entre Grados de letras. Estos deben redondearse al grado de letra más cercano. Su programa debe reportar A + para un promedio de calificaciones de 4.0 (o más).
    [EJERCICIO 52](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio52.py).
   
   # **EJERCICIO 53**
+En una empresa en particular, los empleados son calificados al final de cada año. La escala de calificación comienza en 0.0, con valores más altos que indican un mejor rendimiento y resultados más grandes plantea. El valor otorgado a un empleado es 0.0, 0.4 o 0.6 o más. Valores entre 0.0 y 0.4, y entre 0.4 y 0.6 nunca se usan. El significado asociado con cada calificación se muestra en la siguiente tabla. El monto del aumento de un empleado es $ 2400.00 multiplicado por su calificación. **TABLA**
+Escriba un programa que lea una calificación del usuario e indique si el rendimiento fue inaceptable, aceptable o meritorio. El monto del empleado aumento también debe ser reportado. Su programa debe mostrar un error apropiado mensaje si se ingresa una calificación no válida.
    [EJERCICIO 53](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio53.py).
   
   # **EJERCICIO 54**
+La longitud de onda de la luz visible varía de 380 a 750 nanómetros (nm). Mientras que la El espectro es continuo, a menudo se divide en 6 colores como se muestra a continuación: **TABLA**
+Escriba un programa que lea una longitud de onda del usuario e informe su color. Monitor un mensaje de error apropiado si la longitud de onda ingresada por el usuario está fuera de espectro visible.
    [EJERCICIO 54](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio54.py).
   
   # **EJERCICIO 55**
+La radiación electromagnética se puede clasificar en una de las 7 categorías según su frecuencia, como se muestra en la tabla a continuación: **TABLA** Escriba un programa que lea la frecuencia de la radiación del usuario y muestre El nombre apropiado.
    [EJERCICIO 55](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio55.py).
   
   # **EJERCICIO 56**
+Un plan particular de telefonía celular incluye 50 minutos de tiempo al aire y 50 mensajes de texto. por $ 15.00 al mes. Cada minuto adicional de tiempo en el aire cuesta $ 0.25, mientras que adicional los mensajes de texto cuestan $ 0.15 cada uno. Todas las facturas de teléfonos celulares incluyen un cargo adicional de $ 0.44 para respaldar los centros de llamadas al 911, y la factura completa (incluido el cargo del 911) es sujeto al 5 por ciento de impuesto a las ventas.
+Escriba un programa que lea la cantidad de minutos y mensajes de texto utilizados en un mes del usuario. Muestra el cargo base, el cargo por minutos adicionales (si corresponde), cargo adicional por mensaje de texto (si corresponde), la tarifa 911, impuestos y el monto total de la factura. Solamente mostrar los cargos adicionales por minutos y mensajes de texto si el usuario incurrió en costos en Estas categorías. Asegúrese de que todos los cargos se muestren con 2 decimales.
    [EJERCICIO 56](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio56.py).
   
   # **EJERCICIO 57**
+La mayoría de los años tienen 365 días. Sin embargo, el tiempo requerido para que la Tierra orbita alrededor del Sol
+en realidad es un poco más que eso. Como resultado, se incluye un día adicional, el 29 de febrero.
+en algunos años para corregir esta diferencia. Dichos años se denominan años bisiestos.
+Las reglas para determinar si un año es o no bisiesto son las siguientes:
+
+• Cualquier año que es divisible por 400 es un año bisiesto.
+• De los años restantes, cualquier año divisible por 100 no es bisiesto.
+• De los años restantes, cualquier año que sea divisible por 4 es un año bisiesto.
+• Todos los demás años no son bisiestos.
+Escriba un programa que lea un año del usuario y muestre un mensaje que indique
+si es o no un año bisiesto.
    [EJERCICIO 57](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio57.py).
   
   # **EJERCICIO 58**
+Escriba un programa que lea una fecha del usuario y calcule su sucesor inmediato. Por ejemplo, si el usuario ingresa valores que representan 2013-11-18, entonces su programa debería mostrar un mensaje que indique que el día inmediatamente posterior al 2013-11-18 es 2013-11-19. Si el usuario ingresa valores que representan 2013-11-30, entonces el programa debe indicar que al día siguiente es 2013-12-01. Si el usuario ingresa valores que representan 31/12/2013, entonces el programa debe indicar que el día siguiente es 01-01-2014. los la fecha se ingresará en forma numérica con tres declaraciones de entrada separadas; uno para el año, uno para el mes y otro para el día. Asegúrese de que su programa funcione correctamente para los años bisiestos.
    [EJERCICIO 58](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio58.py).
   
   # **EJERCICIO 59**
+Escriba un programa que comience leyendo una cadena de caracteres del usuario. Luego su programa debe mostrar un mensaje que indique si los caracteres son válidos para una placa de estilo anterior o una placa de estilo más nueva. Su programa debe mostrar un mensaje apropiado si la cadena ingresada por el usuario no es válida para Estilo de matrícula.
    [EJERCICIO 59](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio59.py).
   
 
