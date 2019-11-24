@@ -269,6 +269,7 @@ previamente.
    [EJERCICIO 41](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio41.py).
   
   # **EJERCICIO 42**
+En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En esta pregunta escribirás un programa que invierta ese proceso. Comience leyendo una frecuencia del usuario Si la frecuencia está dentro de un Hertz de un valor listado en la tabla en En la pregunta anterior, informe el nombre de la nota. De lo contrario, informe que el la frecuencia no corresponde a una nota conocida. En este ejercicio solo necesitas considere las notas enumeradas en la tabla. No hay necesidad de considerar notas de otros octavas.
    [EJERCICIO 42](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio42.py).
   
   # **EJERCICIO 43**
