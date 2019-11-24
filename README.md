@@ -237,9 +237,17 @@ La siguiente tabla enumera el nivel de sonido en decibelios para varios ruidos c
 |Noise       |Decibel level (dB)|
 | ---------- | ---- |
 | Jackhammer | 130  | 
-as lawnmower | 106  |
- Alarm clock | 70   |
-  Quiet room | 40   |
+|as lawnmower| 106  |
+| Alarm clock| 70   |
+|  Quiet room| 40   |
+
+
+| TITULO1| TITULO2|
+| ----- | ---- |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
+
+
    [EJERCICIO 39](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio39.py).
   
   # **EJERCICIO 40**
