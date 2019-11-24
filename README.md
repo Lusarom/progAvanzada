@@ -152,6 +152,14 @@ El volumen de un cilindro se puede calcular multiplicando el área de su circula
  # **EJERCICIO 19**
 Cree un programa que determine qué tan rápido viaja un objeto cuando golpea el suelo. El usuario ingresará la altura desde la cual se cae el objeto en metros (m). Debido a que el objeto se cae, su velocidad inicial es de 0 m / s. Supongamos que la aceleración debido a la gravedad es de 9.8 m / s2. Puedes usar la fórmula vf = v2 i + 2ad para calcular el velocidad final, vf, cuando se conoce la velocidad inicial, vi, aceleración, a y distancia, d.
  [EJERCICIO 19](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio19.py).
+ 
+ # **EJERCICIO 20** 
+Escriba un programa que calcule la cantidad de gas en moles cuando el usuario suministra la presión, el volumen y la temperatura. Prueba tu programa determinando el número de moles de gas en un tanque de buceo. Un tanque de buceo típico contiene 12 litros de gas a una presión de 20,000,000 Pascales (aproximadamente 3,000 PSI). La temperatura ambiente es aproximadamente 20 grados Celsius o 68 grados Fahrenheit.
+ [EJERCICIO 20](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio20.py).
+ 
+  # **EJERCICIO 21**
+Escriba un programa que permita al usuario ingresar valores para byh. El programa luego debe calcular y mostrar el área de un triángulo con longitud base by altura h.
+ [EJERCICIO 21](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio21.py).
 
 
 
