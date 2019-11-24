@@ -184,10 +184,68 @@ Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida
  [EJERCICIO 26](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio26.py).
 
   # **EJERCICIO 27**
-Escriba un programa que calcule el índice de masa corporal (IMC) de un individuo. Tu El programa debe comenzar leyendo una altura y un peso del usuario. Entonces debería use una de las siguientes dos fórmulas para calcular el IMC antes de mostrarlo. Si lees la altura en pulgadas y el peso en libras, entonces el índice de masa corporal es calculado usando la siguiente fórmula: IMC = peso / altura × altura (703).
+Escriba un programa que calcule el índice de masa corporal (IMC) de un individuo. El programa debe comenzar leyendo una altura y un peso del usuario. Entonces debería use una de las siguientes dos fórmulas para calcular el IMC antes de mostrarlo. Si lees la altura en pulgadas y el peso en libras, entonces el índice de masa corporal es calculado usando la siguiente fórmula: IMC = peso / altura × altura (703).
  [EJERCICIO 27](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio27.py).
 
+  # **EJERCICIO 28**
+Escriba un programa que comience leyendo la temperatura del aire y la velocidad del viento del usuario. Una vez que se hayan leído estos valores, su programa debería mostrar la sensación térmica índice redondeado al entero más cercano.
+ [EJERCICIO 28](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio28.py).
+ 
+   # **EJERCICIO 29**
+Escriba un programa que comience leyendo la temperatura del usuario en grados Celsius. Entonces su programa debe mostrar la temperatura equivalente en grados Fahrenheit y grados Kelvin. Los cálculos necesarios para convertir entre diferentes unidades de temperatura se pueden encontrar en internet.
+ [EJERCICIO 29](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio29.py).
 
+  # **EJERCICIO 30**
+En este ejercicio creará un programa que lee la presión del usuario en kilopascales. Una vez que se ha leído la presión, su programa debe informar el equivalente presión en libras por pulgada cuadrada, milímetros de mercurio y atmósferas. Utilizar sus habilidades de investigación para determinar los factores de conversión entre estas unidades.
+ [EJERCICIO 30](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio30.py).
+ 
+ # **EJERCICIO 31**
+Desarrolle un programa que lea un número entero de cuatro dígitos del usuario y muestre la suma de los dígitos en el número. Por ejemplo, si el usuario ingresa 3141, entonces su programa debería mostrar 3 + 1 + 4 + 1 = 9.
+ [EJERCICIO 31](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio31.py).
+ 
+  # **EJERCICIO 32**
+Cree un programa que lea tres enteros del usuario y los muestre ordenados orden (de menor a mayor). Usa las funciones min y max para encontrar el más pequeño y valores más grandes. El valor medio se puede encontrar calculando la suma de los tres valores, y luego restando el valor mínimo y el valor máximo.
+ [EJERCICIO 32](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio32.py).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
 
 
 
