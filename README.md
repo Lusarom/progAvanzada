@@ -95,15 +95,15 @@ El programa que cree para este ejercicio comenzará leyendo el costo de una comi
 Escriba un programa que lea un entero positivo, n, del usuario y luego muestre el suma de todos los enteros de 1 a n. La suma de los primeros n enteros positivos puede ser calculado usando la fórmula: sum=(n)(n+1)/2.
  [EJERCICIO 7](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio07.py).
 
-# **EJERCICIO 8** Widgets y gizmos.
+# **EJERCICIO 8** *Widgets y gizmos*.
 Un minorista en línea vende dos productos: widgets y artilugios. Cada widget pesa 75 gramos Cada artilugio pesa 112 gramos. Escribe un programa que lea el número de widgets y la cantidad de artilugios en un pedido del usuario. Entonces tu programa debe calcular y mostrar el peso total de la orden.
  [EJERCICIO 8](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio08.py).
 
-# **EJERCICIO 9** Interés compuesto.
+# **EJERCICIO 9** *Interés compuesto*.
 Imagina que acabas de abrir una nueva cuenta de ahorros que genera un interés del 4% por año. El interés que gana se paga al final del año y se agrega al saldo de la cuenta de ahorro. Escriba un programa que comience leyendo el cantidad de dinero depositada en la cuenta del usuario. Entonces su programa debería calcule y muestre el monto en la cuenta de ahorros después de 1, 2 y 3 años. Monitor cada cantidad para que se redondee a 2 decimales.
  [EJERCICIO 9](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio09.py).
 
-# **EJERCICIO 10** Aritmética
+# **EJERCICIO 10** *Aritmética*
 Cree un programa que lea dos enteros, "a" y "b", del usuario. Su programa debe calcular y mostrar.
 ##### • La suma de a y b
 ##### • La diferencia cuando b se resta de a
@@ -114,88 +114,88 @@ Cree un programa que lea dos enteros, "a" y "b", del usuario. Su programa debe c
 ##### • El resultado de a ^ b
  [EJERCICIO 10](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio10.py).
 
-# **EJERCICIO 11** Eficiencia de combustible.
+# **EJERCICIO 11** *Eficiencia de combustible*.
 En los Estados Unidos, la eficiencia del combustible para vehículos normalmente se expresa en millas por galón (MPG). En Canadá, la eficiencia del combustible normalmente se expresa en litros por cien kilómetros (L / 100 km). Usa tus habilidades de investigación para determinar cómo convertir de MPG a L / 100 km. Luego cree un programa que lea un valor del usuario en América unidades y muestra la eficiencia de combustible equivalente en unidades canadienses.
  [EJERCICIO 11](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio11.py).
 
 
-# **EJERCICIO 12** Distancia entre dos puntos en la Tierra.
+# **EJERCICIO 12** *Distancia entre dos puntos en la Tierra*.
 La superficie de la Tierra es curva y la distancia entre grados de longitud. varía con la latitud. Como resultado, encontrar la distancia entre dos puntos en la superficie de la Tierra es más complicado que simplemente usar el teorema de Pitágoras. Sea (t1, g1) y (t2, g2) la latitud y longitud de dos puntos en la Tierra superficie. La distancia entre estos puntos, siguiendo la superficie de la Tierra, en
 kilómetros es: distancia = 6371.01 × arccos (sin (t1) × sin (t2) + cos (t1) × cos (t2) × cos (g1 - g2)). Cree un programa que permita al usuario ingresar la latitud y longitud de dos puntos en la Tierra en grados. Su programa debe mostrar la distancia entre los puntos, siguiendo la superficie de la tierra, en kilómetros.
  [EJERCICIO 12](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio12.py).
  
- # **EJERCICIO 13** Hacer cambios.
+ # **EJERCICIO 13** *Hacer cambios*.
 Considere el software que se ejecuta en una máquina de autopago. Una tarea que debe ser capaz de realizar es determinar cuánto cambio proporcionar cuando el comprador paga para una compra en efectivo Escriba un programa que comience leyendo una cantidad de centavos del usuario como entero. Luego, su programa debe calcular y mostrar las denominaciones de monedas que deberían usarse para dar esa cantidad de cambio al comprador. El cambio debe administrarse utilizando la menor cantidad de monedas posible. Suponga que la máquina está cargada con centavos, monedas de cinco centavos, monedas de diez centavos, cuartos, locos y toonies.
  [EJERCICIO 13](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio13.py).
 
- # **EJERCICIO 14** Unidades de altura.
+ # **EJERCICIO 14** *Unidades de altura*.
 Muchas personas piensan en su altura en pies y pulgadas, incluso en algunos países que utiliza principalmente el sistema métrico. Escriba un programa que lea un número de pies de el usuario, seguido de varias pulgadas. Una vez que se leen estos valores, su programa debe calcular y mostrar el número equivalente de centímetros.
  [EJERCICIO 14](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio14.py).
  
-  # **EJERCICIO 15** Unidades de distancia. 
+  # **EJERCICIO 15** *Unidades de distancia*. 
 En este ejercicio, creará un programa que comienza leyendo una medida en pies del usuario. Entonces su programa debe mostrar la distancia equivalente en pulgadas, yardas y millas. Use Internet para buscar los factores de conversión necesarios si no los tienes memorizados. 
  [EJERCICIO 15](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio15.py).
 
-  # **EJERCICIO 16** Área y volúmen. 
+  # **EJERCICIO 16** *Área y volúmen*. 
 Escriba un programa que comience leyendo un radio, r, del usuario. El programa continúe calculando y mostrando el área de un círculo con radio r y el volumen de una esfera con radio r. Use la constante pi en el módulo matemático en su cálculos.
  [EJERCICIO 16](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio16.py).
  
-  # **EJERCICIO 17** Capacidad de calor.
+  # **EJERCICIO 17** *Capacidad de calor*.
  Escriba un programa que lea la masa de un poco de agua y el cambio de temperatura. del usuario Su programa debe mostrar la cantidad total de energía que debe ser agregado o eliminado para lograr el cambio de temperatura deseado.
  [EJERCICIO 17](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio17.py).
 
 
-  # **EJERCICIO 18** Volúmen de un cilíndro.
+  # **EJERCICIO 18** *Volúmen de un cilíndro*.
 El volumen de un cilindro se puede calcular multiplicando el área de su circular base por su altura. Escriba un programa que lea el radio del cilindro, junto con su altura, desde el usuario y calcula su volumen. Mostrar el resultado redondeado a uno decimal.
  [EJERCICIO 18](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio18.py).
  
- # **EJERCICIO 19** Caída libre.
+ # **EJERCICIO 19** *Caída libre*.
 Cree un programa que determine qué tan rápido viaja un objeto cuando golpea el suelo. El usuario ingresará la altura desde la cual se cae el objeto en metros (m). Debido a que el objeto se cae, su velocidad inicial es de 0 m / s. Supongamos que la aceleración debido a la gravedad es de 9.8 m / s2. Puedes usar la fórmula vf = v2 i + 2ad para calcular el velocidad final, vf, cuando se conoce la velocidad inicial, vi, aceleración, a y distancia, d.
  [EJERCICIO 19](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio19.py).
  
- # **EJERCICIO 20** Ley del gas ideal.
+ # **EJERCICIO 20** *Ley del gas ideal*.
 Escriba un programa que calcule la cantidad de gas en moles cuando el usuario suministra la presión, el volumen y la temperatura. Prueba tu programa determinando el número de moles de gas en un tanque de buceo. Un tanque de buceo típico contiene 12 litros de gas a una presión de 20,000,000 Pascales (aproximadamente 3,000 PSI). La temperatura ambiente es aproximadamente 20 grados Celsius o 68 grados Fahrenheit.
  [EJERCICIO 20](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio20.py).
  
-  # **EJERCICIO 21**  Área de un triángulo.
+  # **EJERCICIO 21**  *Área de un triángulo*.
 Escriba un programa que permita al usuario ingresar valores para byh. El programa luego debe calcular y mostrar el área de un triángulo con longitud base by altura h.
  [EJERCICIO 21](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio21.py).
 
-# **EJERCICIO 22** Área de un triángulo (nuevamente).
+# **EJERCICIO 22** *Área de un triángulo (nuevamente)*.
 En el ejercicio anterior, creó un programa que calculaba el área de un triángulo cuando se conocía la longitud de su base y su altura. También es posible calcular el área de un triángulo cuando se conocen las longitudes de los tres lados. Deje s1, s2 y s3
 ser la longitud de los lados. Sea s = (s1 + s2 + s3) / 2. Entonces el área del triángulo se puede calcular usando la siguiente fórmula: area = s × (s − s1) × (s − s2) × (s − s3)
  [EJERCICIO 22](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio22.py).
 
-# **EJERCICIO 23** Área de un polígono regular. 
+# **EJERCICIO 23** *Área de un polígono regular*. 
 Un polígono es regular si sus lados tienen la misma longitud y los ángulos entre todos Los lados adyacentes son iguales. El área de un polígono regular se puede calcular usando la siguiente fórmula, donde s es la longitud de un lado yn es el número de lados: area = n × s2/
 4 × tan (π / n).
  [EJERCICIO 23](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio23.py).
 
-# **EJERCICIO 24** Unidades de tiempo. 
+# **EJERCICIO 24** *Unidades de tiempo*. 
 Cree un programa que lea una duración del usuario como un número de días, horas, minutos y segundos. Calcule y muestre el número total de segundos representados por esta duración.
  [EJERCICIO 24](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio24.py).
  
- # **EJERCICIO 25** Unidades de tiempo (nuevamente).
+ # **EJERCICIO 25** *Unidades de tiempo (nuevamente)*.
 En este ejercicio revertirá el proceso descrito en el ejercicio anterior. Desarrolle un programa que comience leyendo un número de segundos del usuario. Luego, su programa debe mostrar la cantidad de tiempo equivalente en el formulario D: HH: MM: SS, donde D, HH, MM y SS representan días, horas, minutos y segundos respectivamente. Las horas, minutos y segundos deben estar formateados para que ocupan exactamente dos dígitos, con un 0 inicial si es necesario.
  [EJERCICIO 25](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio25.py).
  
-  # **EJERCICIO 26** Hora actual.
+  # **EJERCICIO 26** *Hora actual*.
 Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida una función llamado asctime en el módulo de tiempo. Lee la hora actual del reloj interno de la computadora y la devuelve en un formato legible para humanos. Escribir un programa que muestra la hora y fecha actuales. Su programa no requerirá ninguna entrada de el usuario.
  [EJERCICIO 26](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio26.py).
 
-  # **EJERCICIO 27** Índice de masa corporal.
+  # **EJERCICIO 27** *Índice de masa corporal*.
 Escriba un programa que calcule el índice de masa corporal (IMC) de un individuo. El programa debe comenzar leyendo una altura y un peso del usuario. Entonces debería use una de las siguientes dos fórmulas para calcular el IMC antes de mostrarlo. Si lees la altura en pulgadas y el peso en libras, entonces el índice de masa corporal es calculado usando la siguiente fórmula: IMC = peso / altura × altura (703).
  [EJERCICIO 27](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio27.py).
 
-  # **EJERCICIO 28** Sensación térmica.
+  # **EJERCICIO 28** *Sensación térmica*.
 Escriba un programa que comience leyendo la temperatura del aire y la velocidad del viento del usuario. Una vez que se hayan leído estos valores, su programa debería mostrar la sensación térmica índice redondeado al entero más cercano.
  [EJERCICIO 28](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio28.py).
  
-   # **EJERCICIO 29** Celsius a Fahrenheit y Kelvin.
+   # **EJERCICIO 29** *Celsius a Fahrenheit y Kelvin*.
 Escriba un programa que comience leyendo la temperatura del usuario en grados Celsius. Entonces su programa debe mostrar la temperatura equivalente en grados Fahrenheit y grados Kelvin. Los cálculos necesarios para convertir entre diferentes unidades de temperatura se pueden encontrar en internet.
  [EJERCICIO 29](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio29.py).
 
-  # **EJERCICIO 30** Unidades de presión.
+  # **EJERCICIO 30** *Unidades de presión*.
 En este ejercicio creará un programa que lee la presión del usuario en kilopascales. Una vez que se ha leído la presión, su programa debe informar el equivalente presión en libras por pulgada cuadrada, milímetros de mercurio y atmósferas. Utilizar sus habilidades de investigación para determinar los factores de conversión entre estas unidades.
  [EJERCICIO 30](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio30.py).
  
