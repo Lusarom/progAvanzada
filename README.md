@@ -95,6 +95,16 @@ Escriba un programa que lea un entero positivo, n, del usuario y luego muestre e
  [EJERCICIO 7](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio07.py).
 
 # **EJERCICIO 8**
+Un minorista en línea vende dos productos: widgets y artilugios. Cada widget pesa 75 gramos Cada artilugio pesa 112 gramos. Escribe un programa que lea el número de widgets y la cantidad de artilugios en un pedido del usuario. Entonces tu programa debe calcular y mostrar el peso total de la orden.
+ [EJERCICIO 8](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio08.py).
+
+# **EJERCICIO 9**
+Imagina que acabas de abrir una nueva cuenta de ahorros que genera un interés del 4% por año. El interés que gana se paga al final del año y se agrega al saldo de la cuenta de ahorro. Escriba un programa que comience leyendo el cantidad de dinero depositada en la cuenta del usuario. Entonces su programa debería calcule y muestre el monto en la cuenta de ahorros después de 1, 2 y 3 años. Monitor cada cantidad para que se redondee a 2 decimales.
+ [EJERCICIO 9](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio09.py).
+
+# **EJERCICIO 10**
+Cree un programa que lea dos enteros, "a" y "b", del usuario. Su programa debe calcular y mostrar.
+ [EJERCICIO 10](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio10.py).
 
 
 
