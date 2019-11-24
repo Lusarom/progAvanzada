@@ -242,6 +242,7 @@ La siguiente tabla enumera el nivel de sonido en decibelios para varios ruidos c
 | Alarm clock| 70 |
 | Quiet room | 40 |
 
+Escriba un programa que lea un nivel de sonido en decibelios del usuario. Si el usuario ingresa un nivel de decibelios que coincide con uno de los ruidos en la tabla y luego su programa debería mostrar un mensaje que contenga solo ese ruido. Si el usuario ingresa un número de decibelios entre los ruidos enumerados, entonces su programa debería mostrar un mensaje indicando qué ruidos está entre el nivel.
    [EJERCICIO 39](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio39.py).
   
   # **EJERCICIO 40**
