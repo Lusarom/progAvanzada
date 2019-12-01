@@ -366,31 +366,42 @@ En este ejercicio creará un programa que calcula el promedio de una colección 
    [EJERCICIO 61](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio61.py).
    
   # **EJERCICIO 62**  *Tabla de descuento*.
+Un minorista en particular está teniendo un 60 por ciento de descuento en una variedad de productos descontinuados. productos El minorista desea ayudar a sus clientes a determinar el precio reducido. De la mercancía al tener una tabla de descuento impresa en el estante que muestra el precios originales y los precios posteriores a la aplicación del descuento. Escribe un programa que usa un bucle para generar esta tabla, que muestra el precio original, el monto del descuento, y el nuevo precio para compras de $ 4.95, $ 9.95, $ 14.95, $ 19.95 y $ 24.95. Asegurar que los descuentos y los nuevos precios se redondean a 2 decimales cuando se muestran. 
    [EJERCICIO 62](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio62.py).
    
   # **EJERCICIO 63**  *Tabla de conversión de temperatura*.
+Escriba un programa que muestre una tabla de conversión de temperatura para grados Celsius y grados Fahrenheit. La tabla debe incluir filas para todas las temperaturas entre 0 y 100 grados centígrados que son múltiplos de 10 grados centígrados. Incluir apropiado encabezados en sus columnas. La fórmula para convertir entre grados Celsius y grados Fahrenheit se pueden encontrar en internet.
    [EJERCICIO 63](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio63.py).
    
   # **EJERCICIO 64**  *No más centavos*.
+Escriba un programa que lea los precios del usuario hasta que se ingrese una línea en blanco. Muestra el costo total de todos los artículos ingresados en una línea, seguido del monto debido si el cliente paga con efectivo en una segunda línea. El monto adeudado por un efectivo
+el pago debe redondearse al níquel más cercano. Una forma de calcular el efectivo el monto del pago comenzará determinando cuántos centavos serían necesarios para pagar el total Luego calcule el resto cuando este número de centavos se divide por 5. Finalmente, ajuste el total hacia abajo si el resto es inferior a 2.5. De lo contrario, ajuste el total.
    [EJERCICIO 64](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio64.py).
     
-  # **EJERCICIO 65**  *Calcular el perímetro de un polígono*. 
+  # **EJERCICIO 65**  *Calcular el perímetro de un polígono*.
+Escribe un programa que calcule el perímetro de un polígono. Comience leyendo los valores x e y para el primer punto en el perímetro del polígono del usuario. Luego, continúe leyendo pares de valores x e y hasta que el usuario ingrese una línea en blanco para coordenada x.
    [EJERCICIO 65](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio65.py).
   
   # **EJERCICIO 66**  *Calcular promedio de calificaciones*.
+  
+El ejercicio 51 incluyó una tabla que muestra la conversión de calificaciones de letras a calificaciones puntos en una institución académica particular. En este ejercicio calcularás el promedio de calificaciones de un número arbitrario de calificaciones de letras ingresadas por el usuario. los el usuario ingresará una línea en blanco para indicar que se han proporcionado todas las calificaciones. por ejemplo, si el usuario ingresa A, seguido de C +, seguido de B, seguido de un espacio en blanco línea, entonces su programa debe reportar un promedio de calificaciones de 3.1. Puede encontrar útil su solución para el ejercicio 51 al completar este ejercicio. Su programa no necesita hacer ninguna comprobación de errores. Puede suponer que cada valor ingresado por el usuario siempre será una calificación de letra válida o una línea en blanco.
    [EJERCICIO 66](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio66.py).
   
   # **EJERCICIO 67**  *Precio de admisión*.
+Cree un programa que comience leyendo las edades de todos los invitados en un grupo del usuario, con una edad ingresada en cada línea. El usuario ingresará una línea en blanco para indica que no hay más invitados en el grupo. Entonces su programa debería mostrar el costo de admisión para el grupo con un mensaje apropiado. El costo debe ser se muestra con dos decimales.
    [EJERCICIO 67](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio67.py).
   
   # **EJERCICIO 68**  *Bits de paridad*.
+Escriba un programa que calcule el bit de paridad para grupos de 8 bits ingresados por usuario usando paridad par. Su programa debe leer cadenas que contengan 8 bits hasta que el usuario ingresa una línea en blanco. Después de que el usuario ingrese cada cadena, su programa debería mostrar un mensaje claro que indica si el bit de paridad debe ser 0 o 1. Pantalla un mensaje de error apropiado si el usuario ingresa algo diferente a 8 bits.
    [EJERCICIO 68](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio68.py).
   
  
   # **EJERCICIO 69**  *Aproximado π*.
+Escriba un programa que muestre 15 aproximaciones de π. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrada por su programa debe incluir un término más en la serie, haciendo es una mejor aproximación de π que cualquiera de las aproximaciones mostradas anteriormente.
    [EJERCICIO 69](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio69.py).
   
   # **EJERCICIO 70**  *Cifrado César*.
+Escriba un programa que implemente un cifrado César. Permitir al usuario suministrar el mensaje y la cantidad de turno, y luego mostrar el mensaje desplazado. Asegurarse de que su programa codifica letras mayúsculas y minúsculas. Su programa debe también admite valores de desplazamiento negativos para que pueda usarse tanto para codificar mensajes como para decodificar mensajes.
    [EJERCICIO 70](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio70.py).
  
   # **EJERCICIO 71**  *Raíz cuadrada*.
