@@ -365,34 +365,34 @@ Escriba un programa que comience leyendo una cadena de caracteres del usuario. L
 En este ejercicio creará un programa que calcula el promedio de una colección de valores ingresados ​​por el usuario. El usuario ingresará 0 como valor centinela para indicar que no se proporcionarán más valores. Su programa debe mostrar un apropiado mensaje de error si el primer valor introducido por el usuario es 0.
    [EJERCICIO 61](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio61.py).
    
-  # **EJERCICIO 62**  *Promedio*.
+  # **EJERCICIO 62**  *Tabla de descuento*.
   
-  # **EJERCICIO 63**  *Promedio*.
+  # **EJERCICIO 63**  *Tabla de conversión de temperatura*.
    
-  # **EJERCICIO 64**  *Promedio*.
+  # **EJERCICIO 64**  *No más centavos*.
     
-  # **EJERCICIO 65**  *Promedio*. 
+  # **EJERCICIO 65**  *Calcular el perímetro de un polígono*. 
   
-  # **EJERCICIO 66**  *Promedio*.
+  # **EJERCICIO 66**  *Calcular promedio de calificaciones*.
   
-  # **EJERCICIO 67**  *Promedio*.
+  # **EJERCICIO 67**  *Precio de admisión*.
   
-  # **EJERCICIO 68**  *Promedio*.
+  # **EJERCICIO 68**  *Parity Bits*.
   
   
-  # **EJERCICIO 69**  *Promedio*.
+  # **EJERCICIO 69**  *Aproximado π*.
   
-  # **EJERCICIO 70**  *Promedio*.
+  # **EJERCICIO 70**  *Cifrado César*.
  
-  # **EJERCICIO 71**  *Promedio*.
-  # **EJERCICIO 72**  *Promedio*.
-  # **EJERCICIO 73**  *Promedio*.
-  # **EJERCICIO 74**  *Promedio*.
-  # **EJERCICIO 75**  *Promedio*.
-  # **EJERCICIO 76**  *Promedio*.
-  # **EJERCICIO 77**  *Promedio*.
-  # **EJERCICIO 78**  *Promedio*.
-  # **EJERCICIO 79**  *Promedio*.
+  # **EJERCICIO 71**  *Raíz cuadrada*.
+  # **EJERCICIO 72**  *¿Es una cuerda un palíndromo?*.
+  # **EJERCICIO 73**  *Palíndromos de palabras múltiples*.
+  # **EJERCICIO 74**  *Tabla de multiplicación*.
+  # **EJERCICIO 75**  *Máximo común divisor*.
+  # **EJERCICIO 76**  *Factores primos*.
+  # **EJERCICIO 77**  *Binario a decimal*.
+  # **EJERCICIO 78**  *Decimal a binario*.
+  # **EJERCICIO 79**  *Número entero máximo*.
 
 
 
