@@ -361,18 +361,38 @@ Escriba un programa que lea una fecha del usuario y calcule su sucesor inmediato
 Escriba un programa que comience leyendo una cadena de caracteres del usuario. Luego su programa debe mostrar un mensaje que indique si los caracteres son válidos para una placa de estilo anterior o una placa de estilo más nueva. Su programa debe mostrar un mensaje apropiado si la cadena ingresada por el usuario no es válida para Estilo de matrícula.
    [EJERCICIO 59](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio59.py).
   
-
+  # **EJERCICIO 61**  *Promedio*.
+En este ejercicio creará un programa que calcula el promedio de una colección de valores ingresados ​​por el usuario. El usuario ingresará 0 como valor centinela para indicar que no se proporcionarán más valores. Su programa debe mostrar un apropiado mensaje de error si el primer valor introducido por el usuario es 0.
+   [EJERCICIO 61](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio61.py).
+   
+  # **EJERCICIO 62**  *Promedio*.
+  
+  # **EJERCICIO 63**  *Promedio*.
+   
+  # **EJERCICIO 64**  *Promedio*.
+    
+  # **EJERCICIO 65**  *Promedio*. 
+  
+  # **EJERCICIO 66**  *Promedio*.
+  
+  # **EJERCICIO 67**  *Promedio*.
+  
+  # **EJERCICIO 68**  *Promedio*.
   
   
+  # **EJERCICIO 69**  *Promedio*.
   
-  
-
-
-
-
-
-
-
+  # **EJERCICIO 70**  *Promedio*.
+ 
+  # **EJERCICIO 71**  *Promedio*.
+  # **EJERCICIO 72**  *Promedio*.
+  # **EJERCICIO 73**  *Promedio*.
+  # **EJERCICIO 74**  *Promedio*.
+  # **EJERCICIO 75**  *Promedio*.
+  # **EJERCICIO 76**  *Promedio*.
+  # **EJERCICIO 77**  *Promedio*.
+  # **EJERCICIO 78**  *Promedio*.
+  # **EJERCICIO 79**  *Promedio*.
 
 
 
