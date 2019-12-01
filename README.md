@@ -377,7 +377,7 @@ En este ejercicio creará un programa que calcula el promedio de una colección 
   
   # **EJERCICIO 67**  *Precio de admisión*.
   
-  # **EJERCICIO 68**  *Parity Bits*.
+  # **EJERCICIO 68**  *Bits de paridad*.
   
   
   # **EJERCICIO 69**  *Aproximado π*.
