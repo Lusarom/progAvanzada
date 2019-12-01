@@ -366,33 +366,59 @@ En este ejercicio creará un programa que calcula el promedio de una colección 
    [EJERCICIO 61](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio61.py).
    
   # **EJERCICIO 62**  *Tabla de descuento*.
-  
+   [EJERCICIO 62](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio62.py).
+   
   # **EJERCICIO 63**  *Tabla de conversión de temperatura*.
+   [EJERCICIO 63](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio63.py).
    
   # **EJERCICIO 64**  *No más centavos*.
+   [EJERCICIO 64](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio64.py).
     
   # **EJERCICIO 65**  *Calcular el perímetro de un polígono*. 
+   [EJERCICIO 65](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio65.py).
   
   # **EJERCICIO 66**  *Calcular promedio de calificaciones*.
+   [EJERCICIO 66](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio66.py).
   
   # **EJERCICIO 67**  *Precio de admisión*.
+   [EJERCICIO 67](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio67.py).
   
   # **EJERCICIO 68**  *Bits de paridad*.
+   [EJERCICIO 68](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio68.py).
   
-  
+ 
   # **EJERCICIO 69**  *Aproximado π*.
+   [EJERCICIO 69](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio69.py).
   
   # **EJERCICIO 70**  *Cifrado César*.
+   [EJERCICIO 70](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio70.py).
  
   # **EJERCICIO 71**  *Raíz cuadrada*.
+   [EJERCICIO 71](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio71.py).
+   
   # **EJERCICIO 72**  *¿Es una cuerda un palíndromo?*.
+   [EJERCICIO 72](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio72.py).
+   
   # **EJERCICIO 73**  *Palíndromos de palabras múltiples*.
+   [EJERCICIO 73](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio73.py).
+   
   # **EJERCICIO 74**  *Tabla de multiplicación*.
+   [EJERCICIO 74](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio74.py).
+   
   # **EJERCICIO 75**  *Máximo común divisor*.
+   [EJERCICIO 75](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio75.py).
+  
   # **EJERCICIO 76**  *Factores primos*.
+   [EJERCICIO 76](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio76.py).
+   
   # **EJERCICIO 77**  *Binario a decimal*.
+   [EJERCICIO 77](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio77.py).
+   
   # **EJERCICIO 78**  *Decimal a binario*.
+   [EJERCICIO 78](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio78.py).
+   
   # **EJERCICIO 79**  *Número entero máximo*.
+   [EJERCICIO 79](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio79.py).
 
 
 
