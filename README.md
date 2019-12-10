@@ -432,7 +432,8 @@ Escriba un programa que implemente un cifrado César. Permitir al usuario sumini
    [EJERCICIO 79](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio79.py).
 
 
-  # **EJERCICIO 80**  *Número entero máximo*.
+  # **EJERCICIO 80**  *Coin Flip Simulation*.
+Cree un programa que use el generador de números aleatorios de Python para simular el volteo una moneda varias veces La moneda simulada debe ser justa, lo que significa que la probabilidad de caras es igual a la probabilidad de colas. Tu programa debe voltearse simulado monedas hasta que ocurran 3 caras consecutivas de 3 colas consecutivas. Mostrar una H cada cada vez que el resultado es cara y una T cada vez que el resultado es cruz, con todos los resultados mostrados en la misma línea. Luego muestre la cantidad de vueltas necesarias para alcanzar 3 lanzamientos consecutivos con el mismo resultado.
    [EJERCICIO 80](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio80.py).
 
 
