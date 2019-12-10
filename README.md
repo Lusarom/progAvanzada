@@ -432,6 +432,129 @@ Escriba un programa que implemente un cifrado César. Permitir al usuario sumini
    [EJERCICIO 79](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio79.py).
 
 
+  # **EJERCICIO 80**  *Número entero máximo*.
+   [EJERCICIO 80](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio80.py).
+
+
+
+
+  # **EJERCICIO 81**  *Número entero máximo*.
+   [EJERCICIO 81](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio81.py).
+
+
+
+
+  # **EJERCICIO 82**  *Número entero máximo*.
+   [EJERCICIO 82](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio82.py).
+
+
+
+
+  # **EJERCICIO 83**  *Número entero máximo*.
+   [EJERCICIO 83](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio83.py).
+
+
+
+
+  # **EJERCICIO 84**  *Número entero máximo*.
+   [EJERCICIO 84](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio84.py).
+
+
+
+
+  # **EJERCICIO 85**  *Número entero máximo*.
+   [EJERCICIO 85](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio79.py).
+
+
+
+
+  # **EJERCICIO 86**  *Número entero máximo*.
+   [EJERCICIO 86](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio86.py).
+
+
+
+
+  # **EJERCICIO 87**  *Número entero máximo*.
+   [EJERCICIO 87](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio87.py).
+
+
+
+
+  # **EJERCICIO 88**  *Número entero máximo*.
+   [EJERCICIO 88](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio88.py).
+
+
+
+
+  # **EJERCICIO 89**  *Número entero máximo*.
+   [EJERCICIO 89](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio89.py).
+
+
+
+
+  # **EJERCICIO 90**  *Número entero máximo*.
+   [EJERCICIO 90](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio90.py).
+
+
+
+
+  # **EJERCICIO 91**  *Número entero máximo*.
+   [EJERCICIO 91](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio91.py).
+
+
+
+
+  # **EJERCICIO 92**  *Número entero máximo*.
+   [EJERCICIO 92](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio92.py).
+
+
+
+
+  # **EJERCICIO 93**  *Número entero máximo*.
+   [EJERCICIO 93](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio93.py).
+
+
+
+
+  # **EJERCICIO 94**  *Número entero máximo*.
+   [EJERCICIO 94](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio94.py).
+
+
+
+
+  # **EJERCICIO 95**  *Número entero máximo*.
+   [EJERCICIO 95](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio95.py).
+
+
+
+
+  # **EJERCICIO 96**  *Número entero máximo*.
+   [EJERCICIO 96](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio96.py).
+
+
+
+
+  # **EJERCICIO 97**  *Número entero máximo*.
+   [EJERCICIO 97](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio97.py).
+
+
+
+
+  # **EJERCICIO 98**  *Número entero máximo*.
+   [EJERCICIO 98](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio98.py).
+
+
+
+
+  # **EJERCICIO 99**  *Número entero máximo*.
+   [EJERCICIO 99](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio99.py).
+
+
+
+
+  # **EJERCICIO 100**  *Número entero máximo*.
+   [EJERCICIO 100](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio100.py).
+
 
 
 
