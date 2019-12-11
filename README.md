@@ -405,15 +405,18 @@ Escriba un programa que implemente un cifrado César. Permitir al usuario sumini
    [EJERCICIO 70](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio70.py).
  
   # **EJERCICIO 71**  *Raíz cuadrada*.
+Escriba un programa que implemente el método de Newton para calcular y mostrar el cuadradoraíz de un número ingresado por el usuario. El algoritmo para el método de Newton sigue: Leer x del usuario Inicializar adivinar a x / 2 Mientras que adivinar no es lo suficientemente bueno Actualizar conjetura para que sea el promedio de conjetura y x / conjetura Cuando se completa este algoritmo, supongo que contiene una aproximación del cuadrado raíz. La calidad de la aproximación depende de cómo se defina "lo suficientemente bueno". En la solución del autor, la conjetura se consideraba suficientemente buena cuando el valor absoluto de la diferencia entre adivinar ∗ adivinar y x fue menor o igual a 10^12.
    [EJERCICIO 71](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio71.py).
    
   # **EJERCICIO 72**  *¿Es una cuerda un palíndromo?*.
+Una cadena es un palíndromo si es idéntica hacia adelante y hacia atrás. Por ejemplo "anna", "Civic", "level" y "hannah" son ejemplos de palabras palindrómicas. Escribe un programa que lee una cadena del usuario y usa un bucle para determinar si es o no un palíndromo. Muestra el resultado, incluido un mensaje de salida significativo.
    [EJERCICIO 72](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio72.py).
    
   # **EJERCICIO 73**  *Palíndromos de palabras múltiples*.
    [EJERCICIO 73](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio73.py).
-   
+Existen numerosas frases que son palíndromos cuando se ignora el espacio. Ejemplos incluyen "ir perro", "huir a mí elfo remoto" y "algunos hombres interpretan nueve notas", Entre muchos otros. Extienda su solución al Ejercicio 72 para que ignore el espaciado mientras determina si una cuerda es o no un palíndromo. Para un desafío adicional, extienda su solución para que también ignore los signos de puntuación y trate las mayúsculas y letras minúsculas como equivalentes.
   # **EJERCICIO 74**  *Tabla de multiplicación*.
+  
    [EJERCICIO 74](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio74.py).
    
   # **EJERCICIO 75**  *Máximo común divisor*.
