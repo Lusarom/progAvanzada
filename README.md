@@ -417,21 +417,33 @@ Una cadena es un palíndromo si es idéntica hacia adelante y hacia atrás. Por 
 Existen numerosas frases que son palíndromos cuando se ignora el espacio. Ejemplos incluyen "ir perro", "huir a mí elfo remoto" y "algunos hombres interpretan nueve notas", Entre muchos otros. Extienda su solución al Ejercicio 72 para que ignore el espaciado mientras determina si una cuerda es o no un palíndromo. Para un desafío adicional, extienda su solución para que también ignore los signos de puntuación y trate las mayúsculas y letras minúsculas como equivalentes.
   # **EJERCICIO 74**  *Tabla de multiplicación*.
   
+En este ejercicio creará un programa que muestra una tabla de multiplicación que
+muestra los productos de todas las combinaciones de enteros desde 1 por 1 hasta
+10 veces 10. Su tabla de multiplicar debe incluir una fila de etiquetas en la parte superior
+contiene los números del 1 al 10. También debe incluir etiquetas a la izquierda
+lado que consiste en los números del 1 al 10.
+  
    [EJERCICIO 74](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio74.py).
    
   # **EJERCICIO 75**  *Máximo común divisor*.
+  Escriba un programa que lea dos enteros positivos del usuario y use este algoritmo para determinar e informar su mayor divisor común.
    [EJERCICIO 75](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio75.py).
   
   # **EJERCICIO 76**  *Factores primos*.
+Escriba un programa que lea un número entero del usuario. Si el valor ingresado por el el usuario tiene menos de 2, entonces su programa debería mostrar un mensaje de error apropiado. De lo contrario, su programa debería mostrar los números primos que se pueden multiplicar juntos para calcular "n", con un factor que aparece en cada línea.
    [EJERCICIO 76](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio76.py).
    
   # **EJERCICIO 77**  *Binario a decimal*.
+Escriba un programa que convierta un número binario (base 2) a decimal (base 10). Tu El programa debe comenzar leyendo el número binario del usuario como una cadena. Luego debe calcular el número decimal equivalente procesando cada dígito en el número binario. Finalmente, su programa debe mostrar el número decimal equivalente con un mensaje apropiado
    [EJERCICIO 77](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio77.py).
-   
+
   # **EJERCICIO 78**  *Decimal a binario*.
+  Escriba un programa que convierta un número decimal (base 10) a binario (base 2). Leer el número decimal del usuario como un entero y luego use el algoritmo de división que se muestra a continuación para realizar la conversión. Cuando se completa el algoritmo, el resultado contiene la representación binaria del número. Mostrar el resultado, junto con un mensaje.
    [EJERCICIO 78](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio78.py).
    
   # **EJERCICIO 79**  *Número entero máximo*.
+Crear un programa que comienza seleccionando un número entero aleatorio entre 1 y 100. Guarde esto entero como el número máximo encontrado hasta ahora. Después de que el entero inicial ha sido seleccionado, generar 99 enteros aleatorios adicionales entre 1 y 100. Verifique cada
+entero, ya que se genera para ver si es mayor que el número máximo encontrado hasta aquí.
    [EJERCICIO 79](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio79.py).
 
 
