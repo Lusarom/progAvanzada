@@ -485,55 +485,64 @@ En este ejercicio escribirás una función que toma un número entero como su ú
 
 
 
-  # **EJERCICIO 86**  *Número entero máximo*.
+  # **EJERCICIO 86**  *Los doce días de navidad*.
+Su tarea es escribir un programa que muestre la letra completa de The Twelve Días de navidad. Escribe una función que tome el número del verso como su único parámetro y muestra el verso especificado de la canción. Luego llame a esa función 12 veces con enteros que aumentan de 1 a 12.
    [EJERCICIO 86](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio86.py).
 
 
 
 
-  # **EJERCICIO 87**  *Número entero máximo*.
+  # **EJERCICIO 87**  *Centrar una cadena en la terminal*.
+Escriba una función que tome una cadena de caracteres como primer parámetro y el ancho de el terminal en caracteres como su segundo parámetro. Su función debería devolver un nuevo cadena que consta de la cadena original y el número correcto de espacios iniciales para que la cadena original aparezca centrada dentro del ancho proporcionado cuando está impreso.
    [EJERCICIO 87](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio87.py).
 
 
 
 
-  # **EJERCICIO 88**  *Número entero máximo*.
+  # **EJERCICIO 88**  *¿Es un triángulo válido?*.
+Escribe una función que determine si tres longitudes pueden o no formar un triángulo. La función tomará 3 parámetros y devolverá un resultado booleano. Además, escribe un programa que lee 3 longitudes del usuario y demuestra el comportamiento de este función.
    [EJERCICIO 88](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio88.py).
 
 
 
 
-  # **EJERCICIO 89**  *Número entero máximo*.
+  # **EJERCICIO 89**  *Capitalizarlo*.
+En este ejercicio, escribirás una función que capitaliza Los caracteres apropiados en una cadena. Una "i" minúscula debe ser reemplazada por una "I" mayúscula si está precedido y seguido por un espacio.
    [EJERCICIO 89](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio89.py).
 
 
 
 
-  # **EJERCICIO 90**  *Número entero máximo*.
+  # **EJERCICIO 90**  *¿Una cadena representa un número entero?*.
+Escriba un programa principal que lea una cadena del usuario e informe si o No representa un número entero. Asegúrese de que el programa principal no se ejecutará si el archivo que contiene su solución se importa a otro programa.
    [EJERCICIO 90](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio90.py).
 
 
 
 
-  # **EJERCICIO 91**  *Número entero máximo*.
+  # **EJERCICIO 91**  *Precedencia del operador*.
+Escriba una función llamada precedencia que devuelva un número entero que represente la precedencia de un operador matemático. Una cadena que contiene el operador se pasará a la función como único parámetro
    [EJERCICIO 91](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio91.py).
 
 
 
 
-  # **EJERCICIO 92**  *Número entero máximo*.
+  # **EJERCICIO 92**  *¿Es un número primo?*.
+Escriba una función que determine si su parámetro es primo o no, devolviendo Verdadero si es así, y falso de lo contrario. Escribe un programa principal que lea un número entero del usuario y muestra un mensaje que indica si es primo o no. Asegurar que el programa principal no se ejecutará si se importa el archivo que contiene su solución en otro programa.
    [EJERCICIO 92](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio92.py).
 
 
 
 
-  # **EJERCICIO 93**  *Número entero máximo*.
+  # **EJERCICIO 93**  *Próximo siguiente*.
+En este ejercicio creará una función llamada nextPrime que encuentra y devuelve el primer número primo más grande que un número entero, n. El valor de n se pasará a la función como su único parámetro. Incluya un programa principal que lea un número entero de el usuario y muestra el primer número primo mayor que el valor ingresado.
    [EJERCICIO 93](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio93.py).
 
 
 
 
-  # **EJERCICIO 94**  *Número entero máximo*.
+  # **EJERCICIO 94**  *Contraseña Aleatoria*.
+Escribe una función que genere una contraseña aleatoria. La contraseña debe tener un longitud aleatoria de entre 7 y 10 caracteres. Cada personaje debe ser al azar seleccionado de las posiciones 33 a 126 en la tabla ASCII. 
    [EJERCICIO 94](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio94.py).
 
 
