@@ -548,37 +548,43 @@ Escribe una función que genere una contraseña aleatoria. La contraseña debe t
 
 
 
-  # **EJERCICIO 95**  *Número entero máximo*.
+  # **EJERCICIO 95**  *Matrícula Aleatoria*.
+Escriba una función que genere una matrícula aleatoria. Tu función debería tener probabilidades aproximadamente iguales de generar una secuencia de caracteres para una licencia anterior placa o una nueva placa de matrícula. Escriba un programa principal que llame a su función y muestra la placa generada al azar.
    [EJERCICIO 95](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio95.py).
 
 
 
 
-  # **EJERCICIO 96**  *Número entero máximo*.
+  # **EJERCICIO 96**  *Verificar una contraseña*.
+En este ejercicio escribirá una función que determina si una contraseña es o no es bueno. Definiremos una buena contraseña como una que tenga al menos 8 caracteres. largo y contiene al menos una letra mayúscula, al menos una letra minúscula y al menos un número.
    [EJERCICIO 96](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio96.py).
 
 
 
 
-  # **EJERCICIO 97**  *Número entero máximo*.
+  # **EJERCICIO 97**  *Buena contraseña aleatoria*.
+Usando sus soluciones para los Ejercicios 94 y 96, escriba un programa que genere un azar buena contraseña y la muestra. Cuente y muestre el número de intentos que fueron necesario antes de que se generara una buena contraseña. Estructura tu solución para que importa las funciones que escribió anteriormente y luego las llama desde una función llamado main en el archivo que crea para este ejercicio.
    [EJERCICIO 97](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio97.py).
 
 
 
 
-  # **EJERCICIO 98**  *Número entero máximo*.
+  # **EJERCICIO 98**  *Dígitos hexadecimales y decimales*.
+Escriba dos funciones, hex2int e int2hex, que conviertan entre hexadecimales dígitos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E y F) y enteros de base 10.
    [EJERCICIO 98](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio98.py).
 
 
 
 
-  # **EJERCICIO 99**  *Número entero máximo*.
+  # **EJERCICIO 99**  *Conversiones de bases arbitrarias*.
+Escriba un programa que permita al usuario convertir un número de una base a otra. Su programa debe admitir bases entre 2 y 16 para el número de entrada y El número de resultado. Si el usuario elige una base fuera de este rango, entonces un apropiado Se debe mostrar un mensaje de error y el programa debe salir.
    [EJERCICIO 99](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio99.py).
 
 
 
 
-  # **EJERCICIO 100**  *Número entero máximo*.
+  # **EJERCICIO 100**  *Días en un mes*.
+Escriba una función que determine cuántos días hay en un mes en particular. Tu La función tomará dos parámetros: el mes como un entero entre 1 y 12, y el año como un entero de cuatro dígitos.
    [EJERCICIO 100](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio100.py).
 
 
@@ -593,8 +599,6 @@ Escribe una función que genere una contraseña aleatoria. La contraseña debe t
 
 
 
-  
- 
 
 
 
