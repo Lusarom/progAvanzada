@@ -452,33 +452,34 @@ Cree un programa que use el generador de números aleatorios de Python para simu
    [EJERCICIO 80](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio80.py).
 
 
-
-
-  # **EJERCICIO 81**  *Número entero máximo*.
+  # **EJERCICIO 81**  *Calcule la hipotenusa*.
+Escribe una función que tome las longitudes de los dos lados más cortos de un triángulo rectángulo como sus parámetros Devuelve la hipotenusa del triángulo, calculada usando Pitágoras teorema, como resultado de la función. Incluya un programa principal que lea las longitudes de los lados más cortos de un triángulo rectángulo del usuario, usa su función para calcular el longitud de la hipotenusa, y muestra el resultado.  
    [EJERCICIO 81](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio81.py).
 
-
-
-
-  # **EJERCICIO 82**  *Número entero máximo*.
+  # **EJERCICIO 82**  *Tarifa taxi*.
+Escriba una función que tome la distancia recorrida (en kilómetros) como su único parámetro y devuelve la tarifa total como su único resultado. Escribe un programa principal que demuestra la función.
    [EJERCICIO 82](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio82.py).
 
 
 
 
-  # **EJERCICIO 83**  *Número entero máximo*.
+  # **EJERCICIO 83** *Calculadora de envío*.
+Un minorista en línea ofrece envío expreso para muchos de sus artículos a una tarifa de $ 10.95 para el primer artículo y $ 2.95 por cada artículo posterior. Escribe una función que tome el número de elementos en el pedido como único parámetro. Devuelva los gastos de envío de
+el orden como resultado de la función. Incluya un programa principal que lea el número de artículos comprados al usuario y muestra los gastos de envío.
    [EJERCICIO 83](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio83.py).
 
 
 
 
-  # **EJERCICIO 84**  *Número entero máximo*.
+  # **EJERCICIO 84**  *Mediana de tres valores*.
+Escriba una función que tome tres números como parámetros y devuelva el valor medio de esos parámetros como resultado. Incluya un programa principal que lea tres valores de el usuario y muestra su mediana.
    [EJERCICIO 84](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio84.py).
 
 
 
 
-  # **EJERCICIO 85**  *Número entero máximo*.
+  # **EJERCICIO 85**  *Convierta un número entero en su número ordinal*.
+En este ejercicio escribirás una función que toma un número entero como su único parámetro y devuelve un cadena que contiene el número ordinal inglés apropiado como único resultado.
    [EJERCICIO 85](https://github.com/Lusarom/progAvanzada/blob/master/ejercicio79.py).
 
 
